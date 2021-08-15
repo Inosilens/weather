@@ -1,3 +1,3 @@
 # weather
-###yarn/npm run serve 
+###`yarn/npm run serve` 
 for start
